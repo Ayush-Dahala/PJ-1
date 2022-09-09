@@ -1,0 +1,11 @@
+.btnNotColor{
+    background: #F9FAFB;
+    border: none;
+    border-radius: 30px;
+    height: 37px;
+    width: 92px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #A2A2A2;
+    margin-right: 8px;
+}
